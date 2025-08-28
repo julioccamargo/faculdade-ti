@@ -9,8 +9,8 @@ O objetivo é documentar meu progresso, aplicar conceitos teóricos em cenários
 
 ## INTRODUÇÃO A PROGRAMAÇÃO DE COMPUTADORES	(DGT3285)
 
-* **[Xadrez](https://github.com/julioccamargo/xadrez-simulador-c))**: Simulação dos movimentos da Torre, Bispo e Rainha. **(Tecnologias: C)**
-* **[Batalha naval](https://github.com/julioccamargo/batalha-naval))**: Simulação do Batalha Naval. **(Tecnologias: C)**
+* **[Xadrez](https://github.com/julioccamargo/xadrez-simulador-c)**: Simulação dos movimentos da Torre, Bispo e Rainha. **(Tecnologias: C)**
+* **[Batalha naval](https://github.com/julioccamargo/batalha-naval)**: Simulação do Batalha Naval. **(Tecnologias: C)**
 
 ## Outras matérias do semestre: PENSAMENTO COMPUTACIONAL	/ INTRODUÇÃO À SEGURANÇA DA INFORMAÇÃO / FUNDAMENTOS DE REDES DE COMPUTADORES	/ COMPUTAÇÃO EM NUVEM	
 ---
